@@ -1,3 +1,3 @@
 [submodule "initrd"]
 	path = initrd
-	url = git@git.markus-hennecke.de:markus/gentoo-rockpro64-initrd.git
+	url = https://github.com/m-hennecke/initrd-rockpro64.git
